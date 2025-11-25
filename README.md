@@ -4,7 +4,7 @@ Administrador/Jefatura
 Usuario: renatox@mpuda.cl 
 Contraseña: renatopuda
 
-Administrador/Jefatura
+Central de Cámaras/Despachador
 Usuario: gaorellana@mpuda.cl
 Contraseña: 123456
 
